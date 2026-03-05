@@ -17,4 +17,7 @@ class ClaseESIC:
 # --- INICIO DE REGISTROS ---
 # Instrucción: Los alumnos deben instanciar su clase debajo de esta línea
 profesor = ClaseESIC("José Manuel García")
-alumno1 = ClaseESIC("Jorge Medina López")
+alumno0 = ClaseESIC("Oscar Juncá")
+alumno1 =ClaseESIC("Alejandro Karambasis")
+alumno2 = ClaseESIC("Alba Buchó Rosco")
+alumno3 = ClaseESIC("Jorge Medina López")
