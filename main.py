@@ -19,3 +19,5 @@ class ClaseESIC:
 profesor = ClaseESIC("José Manuel García")
 alumno0 = ClaseESIC("Oscar Juncá")
 alumno1 =ClaseESIC("Alejandro Karambasis")
+alumno2 = ClaseESIC("Alba Buchó Rosco")
+
