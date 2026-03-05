@@ -18,4 +18,4 @@ class ClaseESIC:
 # Instrucción: Los alumnos deben instanciar su clase debajo de esta línea
 profesor = ClaseESIC("José Manuel García")
 alumno0 = ClaseESIC("Oscar Juncá")
-# alumno1 =
+alumno1 = ClaseESIC("Juan Perez Corral")
