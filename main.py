@@ -23,4 +23,4 @@ alumno2 = ClaseESIC("Alba Buchó Rosco")
 alumno3 = ClaseESIC("Jorge Medina López")
 alumno4= ClaseESIC("Helena Molina")
 alumno5 = ClaseESIC("Micaela Zinn")
-
+alumno6 = ClaseESIC("Juan Perez Corral")
