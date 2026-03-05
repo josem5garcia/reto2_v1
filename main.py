@@ -18,5 +18,8 @@ class ClaseESIC:
 # Instrucción: Los alumnos deben instanciar su clase debajo de esta línea
 profesor = ClaseESIC("José Manuel García")
 alumno0 = ClaseESIC("Oscar Juncá")
-# alumno1 =
-alumno2= ClaseESIC("Helena Molina")
+alumno1 =ClaseESIC("Alejandro Karambasis")
+alumno2 = ClaseESIC("Alba Buchó Rosco")
+alumno3 = ClaseESIC("Jorge Medina López")
+alumno4= ClaseESIC("Helena Molina")
+
