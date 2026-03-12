@@ -17,7 +17,17 @@ class ClaseESIC:
 # --- INICIO DE REGISTROS ---
 # Instrucción: Los alumnos deben instanciar su clase debajo de esta línea
 profesor = ClaseESIC("José Manuel García")
-alumno8 = ClaseESIC("Álvaro Sánchez del Campo")
-
-
-
+alumno0 = ClaseESIC("Oscar Juncá")
+alumno1 =ClaseESIC("Alejandro Karambasis")
+alumno2 = ClaseESIC("Alba Buchó Rosco")
+alumno3 = ClaseESIC("Jorge Medina López")
+alumno4= ClaseESIC("Helena Molina")
+alumno5 = ClaseESIC("Micaela Zinn")
+alumno6 = ClaseESIC("Juan Perez Corral")
+alumno7 = ClaseESIC("Juan Ignacio Iturralde")
+alumno8 = ClaseESIC("Fernando Marañon")
+alumno9 = ClaseESIC("Javier Marín Reyes")
+alumno10 = ClaseESIC("Enrique Rodriguez Ogara")
+alumno11 = ClaseESIC("Ignacio Garcia")
+alumno12 = ClaseESIC("Patricia García")
+alumno13 = ClaseESIC("Álvaro Sánchez del Campo")
