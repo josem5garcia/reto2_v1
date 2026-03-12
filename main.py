@@ -19,4 +19,4 @@ class ClaseESIC:
 profesor = ClaseESIC("José Manuel García")
 alumno0 = ClaseESIC("Oscar Juncá")
 alumno1 = ClaseESIC("Patricia García")
-# alumno1 =
+# alumno1 = ClaseESIC("Nombre del Alumno 1")
