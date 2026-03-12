@@ -1,2 +1,74 @@
 [2026-03-12 18:24:31] SOCIO: José Manuel García
 [2026-03-12 18:24:31] SOCIO: Álvaro Sánchez del Campo
+[2026-03-12 18:53:37] SOCIO: José Manuel García
+[2026-03-12 18:53:37] SOCIO: Oscar Juncá
+[2026-03-12 18:53:37] SOCIO: Alejandro Karambasis
+[2026-03-12 18:53:37] SOCIO: Alba Buchó Rosco
+[2026-03-12 18:53:37] SOCIO: Jorge Medina López
+[2026-03-12 18:53:37] SOCIO: Helena Molina
+[2026-03-12 18:53:37] SOCIO: Micaela Zinn
+[2026-03-12 18:53:37] SOCIO: Hugo Moya Martín
+[2026-03-12 18:53:37] SOCIO: Juan Ignacio Iturralde
+[2026-03-12 18:53:37] SOCIO: Fernando Marañon
+[2026-03-12 18:53:37] SOCIO: Javier Marín Reyes
+[2026-03-12 18:53:37] SOCIO: Enrique Rodriguez Ogara
+[2026-03-12 18:53:37] SOCIO: Ignacio Garcia
+[2026-03-12 18:53:37] SOCIO: Patricia García
+[2026-03-12 18:53:37] SOCIO: Álvaro Sánchez del Campo
+[2026-03-12 18:53:37] SOCIO: Alejandro Vázquez Ruiz del Portal
+[2026-03-12 18:53:37] SOCIO: Juan Perez Corral
+[2026-03-12 18:53:37] SOCIO: Adrian Braojos Hernanz
+[2026-03-12 19:09:33] SOCIO: José Manuel García
+[2026-03-12 19:09:33] SOCIO: Oscar Juncá
+[2026-03-12 19:09:33] SOCIO: Alejandro Karambasis
+[2026-03-12 19:09:33] SOCIO: Alba Buchó Rosco
+[2026-03-12 19:09:33] SOCIO: Jorge Medina López
+[2026-03-12 19:09:33] SOCIO: Helena Molina
+[2026-03-12 19:09:33] SOCIO: Micaela Zinn
+[2026-03-12 19:09:33] SOCIO: Hugo Moya Martín
+[2026-03-12 19:09:33] SOCIO: Juan Ignacio Iturralde
+[2026-03-12 19:09:33] SOCIO: Fernando Marañon
+[2026-03-12 19:09:33] SOCIO: Javier Marín Reyes
+[2026-03-12 19:09:33] SOCIO: Enrique Rodriguez Ogara
+[2026-03-12 19:09:33] SOCIO: Ignacio Garcia
+[2026-03-12 19:09:33] SOCIO: Patricia García
+[2026-03-12 19:09:33] SOCIO: Álvaro Sánchez del Campo
+[2026-03-12 19:09:33] SOCIO: Alejandro Vázquez Ruiz del Portal
+[2026-03-12 19:09:33] SOCIO: Juan Perez Corral
+[2026-03-12 19:09:33] SOCIO: Adrian Braojos
+[2026-03-12 19:10:20] SOCIO: José Manuel García
+[2026-03-12 19:10:20] SOCIO: Oscar Juncá
+[2026-03-12 19:10:20] SOCIO: Alejandro Karambasis
+[2026-03-12 19:10:20] SOCIO: Alba Buchó Rosco
+[2026-03-12 19:10:20] SOCIO: Jorge Medina López
+[2026-03-12 19:10:20] SOCIO: Helena Molina
+[2026-03-12 19:10:20] SOCIO: Micaela Zinn
+[2026-03-12 19:10:20] SOCIO: Hugo Moya Martín
+[2026-03-12 19:10:20] SOCIO: Juan Ignacio Iturralde
+[2026-03-12 19:10:20] SOCIO: Fernando Marañon
+[2026-03-12 19:10:20] SOCIO: Javier Marín Reyes
+[2026-03-12 19:10:20] SOCIO: Enrique Rodriguez Ogara
+[2026-03-12 19:10:20] SOCIO: Ignacio Garcia
+[2026-03-12 19:10:20] SOCIO: Patricia García
+[2026-03-12 19:10:20] SOCIO: Álvaro Sánchez del Campo
+[2026-03-12 19:10:20] SOCIO: Alejandro Vázquez Ruiz del Portal
+[2026-03-12 19:10:20] SOCIO: Juan Perez Corral
+[2026-03-12 19:10:20] SOCIO: Adrian Braojos
+[2026-03-12 19:10:39] SOCIO: José Manuel García
+[2026-03-12 19:10:39] SOCIO: Oscar Juncá
+[2026-03-12 19:10:39] SOCIO: Alejandro Karambasis
+[2026-03-12 19:10:39] SOCIO: Alba Buchó Rosco
+[2026-03-12 19:10:39] SOCIO: Jorge Medina López
+[2026-03-12 19:10:39] SOCIO: Helena Molina
+[2026-03-12 19:10:39] SOCIO: Micaela Zinn
+[2026-03-12 19:10:39] SOCIO: Hugo Moya Martín
+[2026-03-12 19:10:39] SOCIO: Juan Ignacio Iturralde
+[2026-03-12 19:10:39] SOCIO: Fernando Marañon
+[2026-03-12 19:10:39] SOCIO: Javier Marín Reyes
+[2026-03-12 19:10:39] SOCIO: Enrique Rodriguez Ogara
+[2026-03-12 19:10:39] SOCIO: Ignacio Garcia
+[2026-03-12 19:10:39] SOCIO: Patricia García
+[2026-03-12 19:10:39] SOCIO: Álvaro Sánchez del Campo
+[2026-03-12 19:10:39] SOCIO: Alejandro Vázquez Ruiz del Portal
+[2026-03-12 19:10:39] SOCIO: Juan Perez Corral
+[2026-03-12 19:10:39] SOCIO: Adrian Braojos
