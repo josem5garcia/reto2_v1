@@ -27,3 +27,5 @@ alumno6 = ClaseESIC("Juan Perez Corral")
 alumno7 = ClaseESIC("Juan Ignacio Iturralde")
 alumno8 = ClaseESIC("Fernando Marañon")
 alumno9 = ClaseESIC("Javier Marín Reyes")
+
+alumno10 = ClaseESIC("Enrique Rodriguez Ogara")
